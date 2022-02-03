@@ -1,8 +1,10 @@
+![Bus Stop Finder](Images/Header.png)
+
 # Bus Stop Finder
 
 The bus stop app is a simple app that allows you to find the nearest bus stop to your location and shows the bus stop's name, distance and longitude and latitude.
 
-## 📱 The iOS/macOS app for finding bus stops
+## 📱 Screenshots
 
 | Login  | Sign up   | Map    | Pins  | Settings  |
 | ------------ | ------------ | ------------ | -------------- | ----------- |
