@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  Bus Finder
+
+  Created by Alireza Hajebrahimi on 2021/07/14.
+  
+*/
+"Search" = "सर्च कीजिए ";
+"Locating user location..."="उपयोगकर्ता स्थान का पता लगाना";
+"Back"="पीछे जाइए ";
+"Name: %@" = "नाम: %@";
+"Email"="ईमेल";
+"An error happend. Please try again later."="एक गलती हुई है।एक बार और कोशिश कीजिए ";
+"Update"="अप्डेट कीजिए ";
+"Error"="त्रुटि ";
+"OK :("="समझ गए :(";
+"Account"="अकाउंट ";
+"Language"="भाषा ";
+"Write a Review"="रिव्यू लिखिए ";
+"Suggest a feature"="फ़ीचर बताइए ";
+"Report a bug"="बग रिपोर्ट कीजिए ";
+"Made with "="जापान में बनाया है  ";
+" in Japan"="प्यार से ";
+"Log Out"="लोग आउट";
+"Settings"="सेटिंग्स ";
+"Hello World"="नमस्ते दुनिया ";
+"Welcome to "="स्वागत है ";
+"Bus Stop"="बस स्टॉप  ";
+"Password"="पास्वर्ड ";
+"forgot pwd"="पास्वर्ड भूल गए?";
+"Forgot password?"="पास्वर्ड भूल गए?";
+"Sign in"="साइन इन कीजिए ";
+"Oops.."="भूल हो गयी ";
+"OK"="जी ";
+"Not a member?"="सदस्य नहीं है क्या?";
+"Join Now"="अभी हिस्सा बन्ना चाहेंगे?";
+"Passwords do not match"="पास्वर्ड समान नहीं है ";
+"Create an Account"="अकाउंट बनाए ";
+"Password Confirmation"="पास्वर्ड की पुष्टि";
+"Passwords don't match!"="पास्वर्ड समान नहीं है";
+"Register"="रेजिस्टर कीजिए ";
+"By pressing the register button you agree with our terms of service and privacy polices"="रेजिस्टर बटन दबाने से आप हमारी सेवा की शर्तों को सहमति देते है  ";
+"Unable to login. Please try again."="लोग-इन नहीं हो पाया। कृपया फिरसे कोशिश कीजिए ";
+"Close"="बंद कीजिए";

@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Bus Finder
+
+  Created by Alireza Hajebrahimi on 2021/07/14.
+  
+*/
+"Search" = "Cari";
+"Locating user location..."="Mencari lokasi pengguna...";
+"Back"="Kembali";
+"Name: %@" = "Nama: %@";
+"Email"="Email";
+"An error happened. Please try again later."="Terjadi sebuah kesalahan. Silahkan coba lagi beberapa saat nanti.";
+"Update"="Pembaharuan";
+"Error"="Kesalahan";
+"OK :("="OK :(";
+"Account"="Akun";
+"Language"="Bahasa";
+"Write a Review"="Tulis ulasan";
+"Suggest a feature"="Sarankan sebuah fitur";
+"Report a bug"="Laporkan sebuah kesalahan";
+"Made with "="Dibuat dengan ";
+" in Japan"=" di Jepang";
+"Log Out"="Keluar dari akun";
+"Settings"="Pengaturan";
+"Hello World"="Halo";
+"Welcome to "="Selamat datang di ";
+"Bus Stop"="Halte bis";
+"Email"="Email";
+"Password"="Kata sandi";
+"forgot pwd"="Lupa kata sandi";
+"Forgot password?"="Lupa kata sandi";
+"Sign in"="Masuk";
+"Opps.."="Opps..";
+"OK"="OK";
+"Not a member?"="Bukan anggota?";
+"Join Now"="Bergabunglah sekarang";
+"Passwords do not match"="Kata Sandi tidak cocok";
+"Create an Account"="Buat akun";
+"Password Confirmation"="Konfirmasi kata sandi";
+"Passwords don't match!"="Kata sandi tidak cocok!";
+"Register"="daftar";
+"By pressing the register button you agree with our terms of service and privacy polices"="Dengan menekan tombol ini, anda setuju dengan syarat dan ketentuan kami";
+"Unable to login. Please try again."="Gagal masuk. Tolong coba lagi.";
+"Close"="Tutup";

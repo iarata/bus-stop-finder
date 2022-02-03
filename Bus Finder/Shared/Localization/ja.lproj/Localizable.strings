@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  Bus Finder
+
+  Created by Alireza Hajebrahimi on 2021/07/14.
+  
+*/
+"Search" = "調べる";
+"Locating user location..."="ユーザーの位置を特定する...";
+"Back"="戻る";
+"Name: %@" = "名前: %@";
+"Email"="メール";
+"An error happend. Please try again later."="エラーが発生しました。後でもう一度お試しください。";
+"Update"="更新";
+"Error"="エラー";
+"OK :("="オッケー :(";
+"Account"="アカウント";
+"Language"="言語";
+"Write a Review"="レビューを書く";
+"Suggest a feature"="機能を提案する";
+"Report a bug"="バグを報告する";
+"Log Out"="ログアウト";
+"Settings"="設定";
+"Welcome to "="バスストップファインダー";
+"Bus Stop"="へようこそ";
+"Finder"="";
+"Password"="パスワード ";
+"forgot pwd"="पास्वर्ड भूल गए?";
+"Forgot password?"="パスワードを忘れた場合";
+"Sign in"="ログイン";
+"Oops.."="おっと...";
+"OK"="オッケー";
+"Not a member?"="会員でない方は";
+"Join Now"="こちら";
+"Passwords do not match"="パスワードが一致しない";
+"Create an Account"="アカウントの作成";
+"Password Confirmation"="パスワードの確認";
+"Confirm Password"="パスワードの確認";
+"Passwords don't match!"="パスワードが一致しない。";
+"Register"="登録";
+"By pressing the register button you agree with our terms of service and privacy polices"="登録ボタンを押した時点で、当社の利用規約とプライバシーポリシーに同意したものとみなされます。";
+"Unable to login. Please try again."="ログインできませんでした。もう一度お試しください。";
+"Close"="閉める";
+
+"Delete Account"="アカウントの削除";
+"Your account will be deleted immediately and we will not be able to restore your account in any case."="アカウントは直ちに削除され、いかなる場合でもお客様のアカウントを復元することはできません。";
+"Passwords are disabled for apple provider."="Appleのプロバイダでは、パスワードが無効になっています。";
+"Security"="セキュリティ";
+"Are you sure that you want to delete your account? This action is not reversible!"="本当にアカウントを削除してよろしいのでしょうか？この操作は元に戻すことはできません。";
+"Delete"="削除";
+"Information"="インフォメーション";
+"Name:"="名前：";
+"Distance:"="距離：";
+"meter"="メートル";
